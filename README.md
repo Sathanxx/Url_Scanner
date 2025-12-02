@@ -55,16 +55,6 @@ url-safety-tool/
 │── scan_logs.json (auto-generated)
 ```
 
----
-
-## 🖼 Future Add‑Ons (If You Want)
-I can generate these too:
-
-- 🌍 HTML report output  
-- 📊 PDF report generator  
-- 🖥 GUI (Tkinter or PyQt6)  
-- 🔎 Live URL monitoring with systemd service  
-- 🧪 Unit tests  
 
 ---
 
